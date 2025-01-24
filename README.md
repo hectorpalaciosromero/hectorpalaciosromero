@@ -1,25 +1,25 @@
-<h1 align="center">¡Hola! 👋 Soy Héctor Fernando</h1>
-<h3 align="center">Desarrollador Full Stack | Innovador y apasionado por la tecnología</h3>
+<h1 align="center">👋 ¡Hola! Soy Héctor Fernando</h1>
+<h3 align="center">Desarrollador Full Stack | Apasionado por la tecnología y la innovación</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/217538491-f6846784-4d91-4b5e-a9e0-285aeed3faff.gif" alt="Banner personal" />
+  <img src="https://user-images.githubusercontent.com/74038190/217538491-f6846784-4d91-4b5e-a9e0-285aeed3faff.gif" alt="Banner" />
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🚀 Sobre mí  
 
-¡Hola! Soy un **desarrollador Full Stack** con experiencia en la creación de aplicaciones web innovadoras y escalables.  
-Mi objetivo es **transformar ideas complejas en soluciones simples y efectivas**. Creo en el poder de la tecnología para generar impacto positivo y mejorar la vida de las personas.
+✨ Soy un **desarrollador Full Stack** con experiencia en la creación de aplicaciones dinámicas, escalables y orientadas al usuario. Mi misión es transformar ideas complejas en soluciones simples y funcionales.  
 
-- 💻 **Stack principal:** ReactJS, Node.js, Express.js, JavaScript, TypeScript, y más.  
-- 🎯 **Filosofía:** La simplicidad en el código, la eficiencia en la ejecución y la calidad en los resultados.  
-- 🌱 **Aprendiendo actualmente:** DevOps, Docker y microservicios.  
+- 💻 **Stack principal:** HTML, CSS, JavaScript, ReactJS, Node.js, TypeScript y más.  
+- 🎯 **Filosofía:** Código limpio, optimizado y escalable para soluciones efectivas.  
+- 🌱 **Aprendiendo actualmente:** DevOps, Docker y arquitectura de microservicios.  
+- 🌟 **Objetivo profesional:** Innovar y construir experiencias digitales impactantes.  
 - 📫 **Contacto:** [hectorpalaciosromero@gmail.com](mailto:hectorpalaciosromero@gmail.com)  
 
 ---
 
-## 🔗 Conéctate conmigo
+## 🔗 Conéctate conmigo  
 
 <p align="center">
   <a href="https://linkedin.com/in/hectorpalaciosromero" target="_blank">
@@ -32,92 +32,91 @@ Mi objetivo es **transformar ideas complejas en soluciones simples y efectivas**
 
 ---
 
-## 🛠️ Habilidades y Tecnologías
+## 🛠️ Habilidades y Tecnologías  
 
-### 🌐 **Frontend**
+### 🌐 **Frontend**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="50" height="50" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### 🔧 **Backend**
+### 🔧 **Backend**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-### 🗄️ **Bases de Datos**
+### 🗄️ **Bases de Datos**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-### ⚙️ **Herramientas y Otros**
+### ⚙️ **Herramientas y Otros**  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/RESTful%20APIs-%2300599C.svg?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST APIs-02569B?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🌟 Proyectos Destacados  
 
-### 🛒 **E-commerce App**
-- **Descripción:** Plataforma de comercio electrónico moderna con ReactJS y Firebase para la gestión de productos y usuarios.  
-- **Características clave:**  
-  - Diseño intuitivo y responsivo.  
-  - Integración de pasarelas de pago.  
-  - Gestión en tiempo real con Firebase.  
-- **Tecnologías utilizadas:** ReactJS, Firebase, Bootstrap, REST APIs.  
-
-➡️ **[Repositorio en GitHub](#)**  
-
----
-
-### 📋 **Gestor de Tareas**
-- **Descripción:** Aplicación web para organizar tareas y proyectos con autenticación segura y notificaciones.  
-- **Características clave:**  
-  - Autenticación y autorización.  
-  - Notificaciones en tiempo real.  
-  - Funciones avanzadas de búsqueda y filtrado.  
-- **Tecnologías utilizadas:** Node.js, Express.js, MySQL, ReactJS.  
-
-➡️ **[Repositorio en GitHub](#)**  
+### 🛒 **E-commerce App**  
+**Descripción:** Plataforma moderna de comercio electrónico con gestión de productos y usuarios.  
+**Características:**  
+- Diseño responsivo e intuitivo.  
+- Integración de pasarelas de pago.  
+- Gestión en tiempo real con Firebase.  
+**Tecnologías utilizadas:** ReactJS, Firebase, Bootstrap, REST APIs.  
+➡️ [Ver repositorio aquí](#)
 
 ---
 
-### 🌐 **Portafolio Interactivo**
-- **Descripción:** Sitio web personal que muestra mis habilidades, proyectos y experiencia profesional de manera interactiva.  
-- **Características clave:**  
-  - Animaciones modernas.  
-  - Optimización SEO.  
-  - Diseño completamente responsivo.  
-- **Tecnologías utilizadas:** ReactJS, CSS, Bootstrap.  
-
-➡️ **[Repositorio en GitHub](#)**  
-
----
-
-## 🎯 En qué creo
-
-1. **Simplicidad y Escalabilidad:** Escribo código limpio, organizado y fácil de mantener.  
-2. **Colaboración:** Disfruto trabajar en equipo y aprender de otros profesionales.  
-3. **Aprendizaje continuo:** Estoy siempre buscando las últimas tecnologías para mejorar mis habilidades y aportar valor a los proyectos.  
+### 📋 **Gestor de Tareas**  
+**Descripción:** Aplicación para organizar tareas y proyectos con autenticación segura.  
+**Características:**  
+- Autenticación y autorización robusta.  
+- Funciones avanzadas de búsqueda y filtrado.  
+- Notificaciones en tiempo real.  
+**Tecnologías utilizadas:** Node.js, Express.js, MySQL, ReactJS.  
+➡️ [Ver repositorio aquí](#)
 
 ---
 
-## ⭐ Agradecimientos
+### 🌐 **Portafolio Personal Interactivo**  
+**Descripción:** Mi sitio web personal que destaca habilidades, experiencia y proyectos.  
+**Características:**  
+- Animaciones modernas y diseño responsivo.  
+- Optimización SEO para mejor visibilidad.  
+**Tecnologías utilizadas:** ReactJS, CSS, Bootstrap.  
+➡️ [Ver repositorio aquí](#)
 
-Gracias por tomarte el tiempo de visitar mi perfil. Si tienes alguna idea en mente, necesitas ayuda o simplemente quieres conectar, no dudes en contactarme:  
+---
+
+## 🏆 Principios de Trabajo  
+
+1. **Calidad y escalabilidad:** Creo en soluciones que duren y sean fáciles de mantener.  
+2. **Enfoque colaborativo:** Trabajo en equipo para alcanzar resultados sorprendentes.  
+3. **Aprendizaje continuo:** Estoy siempre al día con las últimas tendencias tecnológicas.  
+4. **Pasión por el detalle:** Cada proyecto es una oportunidad para perfeccionar y crecer.  
+
+---
+
+## ⭐ ¡Gracias por visitar mi perfil!
+
+Espero que hayas encontrado interesante mi trabajo. Si tienes una idea o proyecto en mente, no dudes en contactarme:  
 
 📩 **Correo:** [hectorpalaciosromero@gmail.com](mailto:hectorpalaciosromero@gmail.com)  
 🌐 **LinkedIn:** [Héctor Palacios](https://linkedin.com/in/hectorpalaciosromero)  
 
 🚀 **¡Hagamos algo increíble juntos!**
+

@@ -116,7 +116,7 @@
 Espero que hayas encontrado interesante mi trabajo. Si tienes una idea o proyecto en mente, no dudes en contactarme:  
 
 📩 **Correo:** [hectorpalaciosromero@gmail.com](mailto:hectorpalaciosromero@gmail.com)  
-🌐 **LinkedIn:** [Héctor Palacios](https://linkedin.com/in/hectorpalaciosromero)  
+🌐 **LinkedIn:** [Hector Palacios Romero](https://linkedin.com/in/hectorpalaciosromero)  
 
 🚀 **¡Hagamos algo increíble juntos!**
 

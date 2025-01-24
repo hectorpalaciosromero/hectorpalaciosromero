@@ -1,23 +1,21 @@
 <h1 align="center">¡Hola! 👋 Soy Héctor Fernando</h1>
-<h3 align="center">Desarrollador Full Stack | Innovador y Apasionado por la Tecnología</h3>
+<h3 align="center">Desarrollador Full Stack | Innovador y apasionado por la tecnología</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/217538491-f6846784-4d91-4b5e-a9e0-285aeed3faff.gif" alt="Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/217538491-f6846784-4d91-4b5e-a9e0-285aeed3faff.gif" alt="Banner personal" />
 </p>
 
 ---
 
-## 🌟 Sobre mí
+## 🧑‍💻 Sobre mí
 
-Soy un **desarrollador full stack** con experiencia en la creación de aplicaciones web y soluciones personalizadas que combinan innovación y funcionalidad.  
-Mi enfoque se centra en escribir código limpio, optimizado y escalable. Siempre estoy en constante aprendizaje para adoptar nuevas tecnologías que mejoren la experiencia del usuario y la eficiencia del desarrollo.
+¡Hola! Soy un **desarrollador Full Stack** con experiencia en la creación de aplicaciones web innovadoras y escalables.  
+Mi objetivo es **transformar ideas complejas en soluciones simples y efectivas**. Creo en el poder de la tecnología para generar impacto positivo y mejorar la vida de las personas.
 
-- 🔍 **Me apasiona:** Resolver problemas complejos con soluciones elegantes y prácticas.  
-- 💬 **Pregúntame sobre:** HTML, CSS, JavaScript, ReactJS, Node.js, y más.  
-- 🌱 **Actualmente explorando:** DevOps, automatización y tecnologías en la nube.  
-- 🎯 **Objetivo profesional:** Convertir ideas en productos digitales exitosos y funcionales.  
-
-📩 **¿Quieres colaborar o tienes preguntas?** Escríbeme a: [hectorpalaciosromero@gmail.com](mailto:hectorpalaciosromero@gmail.com)
+- 💻 **Stack principal:** ReactJS, Node.js, Express.js, JavaScript, TypeScript, y más.  
+- 🎯 **Filosofía:** La simplicidad en el código, la eficiencia en la ejecución y la calidad en los resultados.  
+- 🌱 **Aprendiendo actualmente:** DevOps, Docker y microservicios.  
+- 📫 **Contacto:** [hectorpalaciosromero@gmail.com](mailto:hectorpalaciosromero@gmail.com)  
 
 ---
 
@@ -25,7 +23,10 @@ Mi enfoque se centra en escribir código limpio, optimizado y escalable. Siempre
 
 <p align="center">
   <a href="https://linkedin.com/in/hectorpalaciosromero" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hector%20Palacios-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hector%20Palacios-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hectorpalaciosromero@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-hectorpalaciosromero@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -38,7 +39,7 @@ Mi enfoque se centra en escribir código limpio, optimizado y escalable. Siempre
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="50" height="50" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" />
 </p>
@@ -66,42 +67,57 @@ Mi enfoque se centra en escribir código limpio, optimizado y escalable. Siempre
 
 ---
 
-## 📂 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 ### 🛒 **E-commerce App**
-**Descripción:** Plataforma de comercio electrónico moderna con ReactJS y Firebase para la gestión de productos y usuarios.  
-**Tecnologías utilizadas:** ReactJS, Firebase, Bootstrap, REST APIs.  
-➡️ [Ver repositorio aquí](#)
+- **Descripción:** Plataforma de comercio electrónico moderna con ReactJS y Firebase para la gestión de productos y usuarios.  
+- **Características clave:**  
+  - Diseño intuitivo y responsivo.  
+  - Integración de pasarelas de pago.  
+  - Gestión en tiempo real con Firebase.  
+- **Tecnologías utilizadas:** ReactJS, Firebase, Bootstrap, REST APIs.  
+
+➡️ **[Repositorio en GitHub](#)**  
 
 ---
 
 ### 📋 **Gestor de Tareas**
-**Descripción:** Aplicación web para organizar tareas y proyectos con autenticación segura.  
-**Tecnologías utilizadas:** Node.js, Express.js, MySQL, ReactJS.  
-➡️ [Ver repositorio aquí](#)
+- **Descripción:** Aplicación web para organizar tareas y proyectos con autenticación segura y notificaciones.  
+- **Características clave:**  
+  - Autenticación y autorización.  
+  - Notificaciones en tiempo real.  
+  - Funciones avanzadas de búsqueda y filtrado.  
+- **Tecnologías utilizadas:** Node.js, Express.js, MySQL, ReactJS.  
+
+➡️ **[Repositorio en GitHub](#)**  
 
 ---
 
-### 🌐 **Portafolio Personal**
-**Descripción:** Sitio web interactivo que muestra mis habilidades, proyectos y experiencia profesional.  
-**Tecnologías utilizadas:** ReactJS, CSS, Bootstrap.  
-➡️ [Ver repositorio aquí](#)
+### 🌐 **Portafolio Interactivo**
+- **Descripción:** Sitio web personal que muestra mis habilidades, proyectos y experiencia profesional de manera interactiva.  
+- **Características clave:**  
+  - Animaciones modernas.  
+  - Optimización SEO.  
+  - Diseño completamente responsivo.  
+- **Tecnologías utilizadas:** ReactJS, CSS, Bootstrap.  
+
+➡️ **[Repositorio en GitHub](#)**  
 
 ---
 
-## 🎯 Mi Enfoque
+## 🎯 En qué creo
 
-1. **Código limpio y eficiente:** Priorizo escribir soluciones que sean fáciles de mantener y escalar.  
-2. **Trabajo en equipo:** Colaborar con otros desarrolladores y equipos multidisciplinarios es una de mis fortalezas.  
-3. **Orientado al cliente:** Me aseguro de que las soluciones cumplan con los requisitos del cliente y superen sus expectativas.  
-4. **Pasión por la innovación:** Siempre estoy buscando nuevas herramientas y tecnologías para mantenerme a la vanguardia.  
+1. **Simplicidad y Escalabilidad:** Escribo código limpio, organizado y fácil de mantener.  
+2. **Colaboración:** Disfruto trabajar en equipo y aprender de otros profesionales.  
+3. **Aprendizaje continuo:** Estoy siempre buscando las últimas tecnologías para mejorar mis habilidades y aportar valor a los proyectos.  
 
 ---
 
 ## ⭐ Agradecimientos
 
-¡Gracias por visitar mi perfil! Espero que encuentres interesante mi trabajo. Si deseas colaborar o tienes alguna consulta, no dudes en escribirme.  
-📩 **Correo:** [hectorpalaciosromero@gmail.com](mailto:hectorpalaciosromero@gmail.com)  
-💬 **Conéctate conmigo en LinkedIn:** [Héctor Palacios](https://linkedin.com/in/hectorpalaciosromero)
+Gracias por tomarte el tiempo de visitar mi perfil. Si tienes alguna idea en mente, necesitas ayuda o simplemente quieres conectar, no dudes en contactarme:  
 
-🚀 **¡Trabajemos juntos para construir algo increíble!**
+📩 **Correo:** [hectorpalaciosromero@gmail.com](mailto:hectorpalaciosromero@gmail.com)  
+🌐 **LinkedIn:** [Héctor Palacios](https://linkedin.com/in/hectorpalaciosromero)  
+
+🚀 **¡Hagamos algo increíble juntos!**

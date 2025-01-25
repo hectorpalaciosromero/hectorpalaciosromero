@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Héctor Fernando</h1>
+<h1 align="center">¡Hola! 👋 Soy Hector Fernando</h1>
 <h3 align="center">Desarrollador Full Stack | Innovador y Apasionado por la Tecnología</h3>
 
 <p align="center">
@@ -102,7 +102,7 @@ Mi enfoque se centra en escribir código limpio, optimizado y escalable. Siempre
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesante mi trabajo. Si deseas colaborar o tienes alguna consulta, no dudes en escribirme.  
 📩 **Correo:** [hectorpalaciosromero@gmail.com](mailto:hectorpalaciosromero@gmail.com)  
-💬 **Conéctate conmigo en LinkedIn:** [Héctor Palacios](https://linkedin.com/in/hectorpalaciosromero)
+💬 **Conéctate conmigo en LinkedIn:** [Hector Palacios](https://linkedin.com/in/hectorpalaciosromero)
 
 🚀 **¡Trabajemos juntos para construir algo increíble!**
 
